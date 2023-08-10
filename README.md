@@ -17,33 +17,34 @@ To run SpaceScribe locally on your machine, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/SpaceScribe.git
+   ```
 2. Navigate to the project directory:
 
 ```bash
 cd SpaceScribe
-
+```
 3. Install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
-
+```
 4. Set up databse
 
 ```bash
 python manage.py migrate
-
+```
 
 5. Create a superuser account for administration:
 
 ```bash
 python manage.py createsuperuser
-
+```
 
 6. Start the development server:
 
 ```bash
 python manage.py runserver
-
+```
 
 7. Open your web browser and visit http://localhost:8000 to access the app.
 
