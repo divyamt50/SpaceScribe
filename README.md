@@ -1,2 +1,2 @@
 # SpaceScribe
-![SpaceScribe Logo](static/images/logo.svg)
+<img src="static/images/logo.svg" alt="Alt Text" width="300" />
