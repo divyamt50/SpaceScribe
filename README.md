@@ -1,6 +1,8 @@
 # SpaceScribe
 <img src="static/images/logo.svg" alt="Alt Text" width="300" />
 
+[Visit the Project](http://13.54.112.134/)
+
 SpaceScribe is a dynamic and interactive web application that allows users to create and manage virtual "spaces" for collaborative discussions and interactions. Inspired by the concept of online chat rooms, SpaceScribe takes it a step further by providing a visually appealing and user-friendly environment for users to engage in meaningful conversations within their chosen topics.
 
 ## Features
